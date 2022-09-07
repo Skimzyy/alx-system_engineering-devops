@@ -43,3 +43,14 @@
 43
 44 ### 13. Floats
 45 - Write a script that prints a number with two decimal places, followed by a new line.
+46
+47 ### 14. Decimal to Hexadecimal
+48 - Write a script that converts a number from base 10 to base 16.
+49
+50 ### 15. Everyone is a proponent of strong encryption
+51
+52 ### 16. The eggs of the brood need to be an odd number
+53 - Write a script that prints every other line from the input, starting with the first line.
+54 
+55 ### 17. I'm an instant star. Just add water and stir.
+56 - Write a shell script that adds the two numbers stored in the environment variables WATER and STIR and prints the result.
